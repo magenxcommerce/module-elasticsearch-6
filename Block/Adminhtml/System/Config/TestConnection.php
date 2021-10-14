@@ -7,8 +7,7 @@ namespace Magento\Elasticsearch6\Block\Adminhtml\System\Config;
 
 /**
  * Elasticsearch 6.x test connection block
- *
- * @deprecated in favor of Elasticsearch 7.
+ * @deprecated the new minor release supports compatibility with Elasticsearch 7
  */
 class TestConnection extends \Magento\AdvancedSearch\Block\Adminhtml\System\Config\TestConnection
 {
